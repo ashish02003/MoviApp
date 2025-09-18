@@ -24,7 +24,7 @@ CSS / Tailwind
 ⚙️ Setup & Installation
 
 1. Clone this repository: https://github.com/ashish02003/MoviApp
-2. Install dependencies: npm install
+2. Install dependencies : npm install
 3. Get an API key from OMDb API
-4. Start the development server: npm start
+4. Start the development server : npm start
   
